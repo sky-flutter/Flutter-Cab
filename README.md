@@ -1,16 +1,20 @@
-# flutter_cab
+# Flutter Cab
 
-A new Flutter application.
+This repository provides design related to taxi cab in flutter.
+I have take referenced from below link and i have tried to make same copy of that image.
 
-## Getting Started
+https://www.uplabs.com/posts/taxi-booking-app-full-app
 
-This project is a starting point for a Flutter application.
+I have create design like prototype no other networking or other functionality implemented yet.
 
-A few resources to get you started if this is your first Flutter project:
+#What are the package used : 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1) Google Maps : 
+    For google maps, I used https://pub.dev/packages/google_maps_flutter package for loading maps.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2) Rating Bar : 
+    Currently there is no widget available for rating you have to create your own or used package and i selected second option.
+    So for implementing rating i used https://pub.dev/packages/flutter_rating_bar package.
+    
+    If you want to get more idea about above packages you should go through this link where you can find the description as well as installation steps.
+
